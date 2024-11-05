@@ -1,2 +1,2 @@
-# predict the precise stock
 # Stock_GPT
+predict the precise stock
